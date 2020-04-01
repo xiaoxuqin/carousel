@@ -1,3 +1,7 @@
+/**
+ * show.js
+ * 页面渲染以及轮播函数
+ */
 define(['jquery'], function($){
     function  showEle() {  
         var $box = $('#box');
